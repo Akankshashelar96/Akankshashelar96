@@ -86,7 +86,6 @@
 | :--- | :--- | :--- |
 | **🚀 [JioCX RCS](https://rcs.jiocx.com)** | High-performance Rich Communication Services platform supporting **100K+ users** and enterprise messaging workflows with 50+ optimized REST APIs. | `Java` `Spring Boot` `Golang` `React.js` `Angular` `TypeScript` |
 | **📧 [JioCX Email](https://email.jiocx.com)** | Scalable enterprise email delivery platform handling **50K+ emails/day**, template management, and real-time delivery analytics. | `Java` `Spring Boot` `React.js` `TypeScript` `REST APIs` |
-| **🎓 [ClassIQ](https://github.com/Akankshashelar96/ClassIQ)** | Pixel-perfect, responsive EdTech web application with course catalogs, interactive UI components, and Figma-accurate implementation. | `HTML5` `CSS3` `JavaScript` `Responsive Design` |
 | **🧩 React Component Library** | Comprehensive enterprise UI kit with 40+ accessible, reusable components improving development velocity and consistency. | `React.js` `TypeScript` `Storybook` `CSS Modules` |
 
 ---
